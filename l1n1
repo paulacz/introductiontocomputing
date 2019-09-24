@@ -19,7 +19,7 @@ int main() {
 	printf("Numero 2..:"); scanf("%i", &num2);
 	
 	//processamento de dados
-	soma = num1 +num2;
+	soma = num1 + num2;
 	
 	printf("A soma dos numeros e..: %i", soma);
 }
