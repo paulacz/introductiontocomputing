@@ -1,5 +1,6 @@
 # introductiontocomputing
  Introduction to Computing for Civil Engineering
+ 
 /* IPOG - Engenharia Civil
    Paula Cruz - 08/2019
    Estrutura Sequencial - N1
