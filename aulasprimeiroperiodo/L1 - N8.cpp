@@ -1,17 +1,17 @@
 /* IPOG - Engenharia Civil
    Paula Cruz - 08/2019
    Estrutura Sequencial - N8
-   Uma pessoa construindo sua residência resolveu colocar em sua casa uma caixa para 
-   servir como reservatório de água. Considerando que a caixa seja retangular, 
-   faça um algoritmo que leia as dimensões da caixa (comprimento, altura e largura), 
-   calcule e escreva o volume de água que pode ser armazenado.
+   Uma pessoa construindo sua residÃªncia resolveu colocar em sua casa uma caixa para 
+   servir como reservatÃ³rio de Ã¡gua. Considerando que a caixa seja retangular, 
+   faÃ§a um algoritmo que leia as dimensÃµes da caixa (comprimento, altura e largura), 
+   calcule e escreva o volume de Ã¡gua que pode ser armazenado.
 */
 
 #include <stdio.h>
 
 int main() {
 	
-	//declaração de variáveis
+	//declaraÃ§Ã£o de variÃ¡veis
 	float comprimento, altura, largura, volume;
 	
 	//entrada de dados
