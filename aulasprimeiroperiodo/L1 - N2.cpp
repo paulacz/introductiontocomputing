@@ -1,15 +1,15 @@
 /* IPOG - Engenharia Civil
    Paula Cruz - 08/2019
    Estrutura Sequencial - N2
-   Faça um algoritmo que leia três números. Calcule e escreva a 
-   multiplicação dos números.
+   FaÃ§a um algoritmo que leia trÃªs nÃºmeros. Calcule e escreva a 
+   multiplicaÃ§Ã£o dos nÃºmeros.
 */
 
 #include <stdio.h>
 
 int main() {
 	
-	//declaração de variáveis
+	//declaraÃ§Ã£o de variÃ¡veis
 	int num1, num2, num3, mult;
 	
 	//entrada de dados
@@ -20,6 +20,6 @@ int main() {
 	//processamento de dados
 	mult = num1 * num2 * num3;
 	
-	printf(" A multiplicação dos numeros e..: %i", mult
+	printf(" A multiplicaÃ§Ã£o dos numeros e..: %i", mult
 	);
 }
