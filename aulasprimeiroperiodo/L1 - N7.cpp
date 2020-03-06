@@ -1,20 +1,20 @@
 /* IPOG - Engenharia Civil
    Paula Cruz - 08/2019
    Estrutura Sequencial - N7
-   João faz economias em dólar e deseja saber quanto vale em reais, faça 
-   um algorítmo que leia a quantidade de dólares que ele possui a cotação 
-   do dólar emreal, calcule e escreva o valor convertido.
+   JoÃ£o faz economias em dÃ³lar e deseja saber quanto vale em reais, faÃ§a 
+   um algorÃ­tmo que leia a quantidade de dÃ³lares que ele possui a cotaÃ§Ã£o 
+   do dÃ³lar emreal, calcule e escreva o valor convertido.
 */
 
 #include <stdio.h>
 
 int main() {
 	
-	//declaração de variáveis
+	//declaraÃ§Ã£o de variÃ¡veis
 	float real, economias, cotacaodolar;
 	
 	//entrada de dados
-	printf("cotação dolar de venda..:"); scanf("%f", &cotacaodolar);
+	printf("cotaÃ§Ã£o dolar de venda..:"); scanf("%f", &cotacaodolar);
 	printf("qual o valor em USD de economias?"); scanf("%f", &economias);
 	
 	//processamento de dados
