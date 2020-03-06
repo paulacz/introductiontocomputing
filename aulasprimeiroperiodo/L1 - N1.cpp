@@ -8,7 +8,7 @@
 
 int main() {
 	
-	//declaração de variáveis
+	//declaraÃ§Ã£o de variÃ¡veis
 	int num1, num2, soma;
 	
 	//entrada de dados
