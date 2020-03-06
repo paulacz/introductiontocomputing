@@ -1,15 +1,15 @@
 /* IPOG - Engenharia Civil
    Paula Cruz - 08/2019
    Estrutura Sequencial - N3
-   FaÁa um algoritmo que leia a idade do pai e a idade do filho. 
-   Calcule e escreva a diferenÁa de idade dos dois.
+   Fa√ßa um algoritmo que leia a idade do pai e a idade do filho. 
+   Calcule e escreva a diferen√ßa de idade dos dois.
 */
 
 #include <stdio.h>
 
 int main() {
 	
-	//declaraÁ„o de vari·veis
+	//declara√ß√£o de vari√°veis
 	int id_pai, id_filho, dif;
 	
 	//entrada de dados
@@ -19,5 +19,5 @@ int main() {
 	//processamento de dados
 	dif = id_pai - id_filho;
 	
-	printf(" a diferenÁa de idades e ..: %i", dif);
+	printf(" a diferen√ßa de idades e ..: %i", dif);
 }
