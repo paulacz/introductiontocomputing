@@ -1,7 +1,7 @@
 /* IPOG - Engenharia Civil
    Paula Cruz - 08/2019
    Estrutura Sequencial - N4
-   FaÁa um algoritmo que leia a idade de uma pessoa em anos. 
+   Fa√ßa um algoritmo que leia a idade de uma pessoa em anos. 
    Calcule e escrevas quantos dias ele viveu. Considerar o  ano 
    com 365,25 dias.
 */
@@ -10,7 +10,7 @@
 
 int main() {
 	
-	//declaraÁ„o de vari·veis
+	//declara√ß√£o de vari√°veis
 	int idade;
 	float dias_vividos;
 	
