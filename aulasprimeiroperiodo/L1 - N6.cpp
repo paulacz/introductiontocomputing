@@ -1,15 +1,15 @@
 /* IPOG - Engenharia Civil
    Paula Cruz - 08/2019
    Estrutura Sequencial - N6
-   FaÁa um algoritmo que leia as medidas de um  ret‚ngulo (comprimento 
-   e largura). Calcule e escreva sua ·rea.
+   Fa√ßa um algoritmo que leia as medidas de um  ret√¢ngulo (comprimento 
+   e largura). Calcule e escreva sua √°rea.
 */
 
 #include <stdio.h>
 
 int main() {
 	
-	//declaraÁ„o de vari·veis
+	//declara√ß√£o de vari√°veis
 	int comprimento, largura, area;
 	
 	//entrada de dados
